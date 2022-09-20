@@ -27,6 +27,7 @@ main{
     padding-left: 100px;
 }
 footer{
-    background-color: magenta;
     grid-area: footer;
+    display: flex;
+    gap: 2px;
 }
